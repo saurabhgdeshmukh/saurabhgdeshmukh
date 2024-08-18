@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saurabh Deshmukh</h1>
-<h3 align="center">A passionate Software developer and Tech-enthusiast from India.</h3>
+<h3 align="center">A passionate Software developer and Tech-enthusiast from IIT GUWAHATI.</h3>
 <img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhgdeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhgdeshmukh" /> </p>
 
